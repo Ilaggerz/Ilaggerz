@@ -1,4 +1,4 @@
-# Hello there 👋 and Welcome to my Personal Repository
+# Hello there 👋 and Welcome to my personal repository.
 
 --- 
 > Stop chasing perfection instead Always try to be better. 
