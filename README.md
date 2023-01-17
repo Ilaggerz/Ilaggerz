@@ -1,7 +1,7 @@
 # Hello there 👋 and Welcome to my personal repository.
 
 --- 
-> Stop chasing perfection instead Always try to be better. 
+> Stop chasing perfection instead always try to be better. 
 
 — Unknown_user
 
